@@ -23,9 +23,3 @@ Hello, I'm a software engineer, I'm looking for an opportunity to develop and le
 <p align="left"><a href=https://www.github.com/barsheshett target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg width="45px" height="45px" /></a><a href=https://www.linkedin.com/in/eden-barsheshet target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/linkedin.svg width="45px" height="45px" /></a></p>
 
 
-
-
-
-
-
-- This Profile Created By <a href="https://profilegit.netlify.app/">GitProfile</a>
